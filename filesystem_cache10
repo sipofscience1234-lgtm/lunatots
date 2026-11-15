@@ -1,0 +1,17 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1794772329
+arrow.gd::GDScript::1954162434513231060::1794771919::0::1::::<>Control<><>0<>0<><>::
+game3d.gd::GDScript::37908559869010985::1794771919::0::1::::<>Node3D<><>0<>0<><>::
+icon.svg::CompressedTexture2D::7865733773843044882::1794771919::1794772331::1::::<><><>0<>0<>07ca197f2d352806b1debac2303d1825<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main.gd::GDScript::7719278871642454160::1794771919::0::1::::<>Control<><>0<>0<><>::
+main.tscn::PackedScene::-1::1794771919::0::1::::<><><>0<>0<><>::res://main.gd
+README.md::TextFile::-1::1794771919::0::1::::<><><>0<>0<><>::
+::res://audio/::1794771919
+cartoon_footsteps.wav::AudioStreamWAV::2416198626752472065::1794771919::1794772331::1::::<><><>0<>0<>587aef9b58a046f4ede82e8cd7fe1ca4<>res://.godot/imported/cartoon_footsteps.wav-6fa30839563e6dcab294f6885eec6a3b.sample::
+jump_squeak.wav::AudioStreamWAV::3685688471355432737::1794771919::1794772331::1::::<><><>0<>0<>925c7a71393c0c25afb0e36bcac522b8<>res://.godot/imported/jump_squeak.wav-523009fb28fc5895e378139a6b9ffae0.sample::
+lobby_space_loop.wav::AudioStreamWAV::4773837178529971833::1794771919::1794772331::1::::<><><>0<>0<>cfe04b7e557dd53de20e6634b19aa735<>res://.godot/imported/lobby_space_loop.wav-6c3779e81a6f1a92c545f5cd10da1755.sample::
+::res://models/::1794771919
+license.txt::TextFile::-1::1794771919::0::1::::<><><>0<>0<><>::
+README.txt::TextFile::-1::1794771919::0::1::::<><><>0<>0<><>::
+scene.gltf::PackedScene::1875190430894682473::1794771919::1794772333::1::::<><><>0<>0<>b3d3c3d6b067c4c47181a4a229920c0c<>res://.godot/imported/scene.gltf-becb726ae5eeee31d3232acaf8017d9f.scn::
+::res://web/::1794772305
